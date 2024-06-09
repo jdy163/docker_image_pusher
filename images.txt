@@ -1,7 +1,3 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
+
 jenkins/jenkins:lts
-jenkins/jenkins
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 
