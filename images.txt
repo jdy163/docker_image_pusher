@@ -1,4 +1,3 @@
 jenkins/jenkins
 redis
-elasticsearch
 rabbitmq
