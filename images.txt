@@ -1,2 +1,1 @@
-alpine 
 jenkins/jenkins
