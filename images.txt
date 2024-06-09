@@ -1,2 +1,2 @@
 alpine 
-jenkins/jenkins:lts
+jenkins/jenkins
